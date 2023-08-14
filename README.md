@@ -4,8 +4,7 @@
 ## Prof. Rodrigo Parra
 ### Grupo No. 30
 #### Integrantes:
-####     Carlos Amarilla Acosta
-####     Jorge Antonio Cabrera González
+####     Carlos Amarilla Acosta y Jorge Antonio Cabrera González
 
 Objetivo
 El objetivo de esta tarea es fijar los contenidos desarrollados durante el módulo de Data Streaming, incluyendo la aplicación de herramientas como Redpanda y KSQLDB para la solución de un problema.
