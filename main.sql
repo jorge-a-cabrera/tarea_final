@@ -29,6 +29,8 @@ CREATE TABLE pregunta_4 AS
     GROUP BY symbol
     EMIT CHANGES;
 
+-- Esta ultima consulta solo consolida en una sola los cuatros requerimientos
+-- anteriores, asi como la sumatoria de las columnas price y volume
 CREATE TABLE pregunta_all AS
     SELECT symbol,
            sum(price) AS sum_price,
